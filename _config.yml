@@ -1,0 +1,14 @@
+url: http://pianopetter.se
+
+permalink: pretty
+
+host: 0.0.0.0 
+
+description: Pianolektioner för vuxna och barn i Årstaberg, Stockholm. 
+
+defaults:
+    -
+        scope:
+            path: ""
+        values:
+            layout: "default"
